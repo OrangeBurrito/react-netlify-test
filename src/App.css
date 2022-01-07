@@ -25,8 +25,7 @@ code {
 }
 
 footer {
-	position: absolute;
-	bottom: 2rem;
+	margin-top: 5rem;
 }
 
 footer a {

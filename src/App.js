@@ -6,7 +6,7 @@ function App() {
         <p>Hello to Jo, from 🗿</p>
 				<h2>Steps to Deploy React to Netlify</h2>
 				<ol>
-					<li>Run <code>npm i -g create-react-app</code> in terminal</li>
+					<li>Run <code>npm i -g create-react-app</code> in your terminal</li>
 					<li>In your code folder run <code>create-react-app myprojectname</code></li>
 					<li>Run <code>cd myprojectname</code> and <code>npm i</code> to install dependencies</li>
 					<li>You can open the project in VSCode with <code>code .</code></li>
