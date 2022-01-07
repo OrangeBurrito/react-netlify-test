@@ -12,13 +12,13 @@ function App() {
 					<li>You can open the project in VSCode with <code>code .</code></li>
 					<li>Create a Github Repository</li>
 					<li>Follow instructions on the Github Repository to push the project to GitHub (stay in project directory in the command line)</li>
-					<li>Sign up at <a href="https://netlify.com" target="_blank">Netlify</a> and in Team Overview, Add New Site &#62; Import from existing project</li>
+					<li>Sign up at <a href="https://netlify.com">Netlify</a> and in Team Overview, Add New Site &#62; Import from existing project</li>
 					<li>Connect to GitHub in Connect to Git provider</li>
 					<li>Select your GitHub Repository from the list</li>
 					<li>Deploy the site.  Voila! 🎉</li>
 				</ol>
 
-				<footer>A website by <a href="https://orangeburrito.com/" target="_blank">OrangeBurrito</a></footer>
+				<footer>A website by <a href="https://orangeburrito.com/">OrangeBurrito</a></footer>
     </div>
   );
 }
